@@ -1,1 +1,10 @@
-y';'dsdfghjkl;'
+生成公钥: ssh-keygen -t rsa -p
+ssh-keygen -t rsa
+ls 
+ls -a
+cd .ssh/
+ls
+公钥 vi id_rsa.pub
+密钥 vi id_rsa
+cat  id_rsa.pub
+cat  id_rsa.pub.pub
